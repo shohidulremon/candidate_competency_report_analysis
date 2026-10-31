@@ -1,0 +1,21 @@
+# ---------------------------------------------------------------
+# NEVER commit real candidate data.
+# Put real client files in private_data/ (ignored below).
+# ---------------------------------------------------------------
+private_data/
+reports/
+*.xlsx
+*.xls
+*.csv
+
+# Allow only the fake sample files
+!sample_data/sample_raw_scores.xlsx
+!sample_data/sample_summary.xlsx
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
