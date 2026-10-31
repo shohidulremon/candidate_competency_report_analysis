@@ -4,7 +4,7 @@ Turns raw online-assessment exports into a **branded, 3-page PDF competency repo
 
 Built for high-volume recruitment drives where hundreds of candidates sit the same assessment and hiring managers need a consistent, readable report for each one, without anyone building them by hand.
 
-![Sample report](sample_output/linkedin_showcase.png)
+![Sample report](linkedin_showcase.png)
 
 > **All data in this repository is synthetic.** Names, emails (`@example.com`) and phone numbers are invented by `make_sample_data.py`. No real candidate data is included.
 
@@ -39,7 +39,7 @@ Built for high-volume recruitment drives where hundreds of candidates sit the sa
 | 2 | Anti-cheating monitor with risk band, and a 9-area competency profile vs cohort average |
 | 3 | Detailed score cards for each section, with sub-competency breakdowns |
 
-See [`sample_output/Sample_Candidate_Report.pdf`](sample_output/Sample_Candidate_Report.pdf).
+See [`sample_output/Sample_Candidate_Report.pdf`](Sample_Candidate_Report.pdf).
 
 ## Assessment structure (90 marks)
 
